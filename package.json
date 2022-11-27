@@ -1,14 +1,14 @@
 {
-  "name": "simple-tailwind-starter",
+  "name": "tailwind-homework",
   "version": "1.0.0",
-  "description": "Simple file structure for Tailwind projects",
+  "description": "Homework for Algebra with Tailwind framework",
   "main": "index.js",
   "scripts": {
     "watch": "tailwindcss -i ./input.css -o ./css/style.css --watch",
     "build": "tailwindcss -i ./input.css -o ./css/style.css"
   },
-  "author": "Brad Traversy",
-  "license": "MIT",
+  "author": "Ivan Turk",
+  "license": "Algebra",
   "devDependencies": {
     "tailwindcss": "^3.2.4"
   }
